@@ -1,4 +1,5 @@
 // problem 1
+// This is problem to solve a binary search tree and performs a preorder,inorder,postorder traversal on it,the diagram to question is in readme
 // class TreeNode {
 //     int value;
 //     TreeNode left, right;
@@ -61,6 +62,7 @@
 //     }
 // }   
 // problem 2:
+// This is problem to solve a binary search tree and performs a preorder,inorder,postorder traversal on it,the diagram to question is in readme
 // class TreeNode {
 //     int value;
 //     TreeNode left, right;
